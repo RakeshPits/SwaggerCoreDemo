@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "To1715XZkUecnRw8M7nzNrq4vtT2QImQqEG5xAAHG1CoIsidYzYsBUjHJQ83trU/Xlk6IJ33gmecRWCaSiMedg==",
+  "success": true,
+  "projectFilePath": "D:\\RAK\\Pits\\Workshop\\AuthenticationInCoreDemo\\AuthenticationInCoreDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rakesh\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Rakesh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.0\\swashbuckle.aspnetcore.swagger.5.5.0.nupkg.sha512",
+    "C:\\Users\\Rakesh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.0\\swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
+    "C:\\Users\\Rakesh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.0\\swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
